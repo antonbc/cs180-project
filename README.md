@@ -7,4 +7,13 @@ This is a course requirement for CS 180 (Artificial Intelligence) Course of the 
 ```
 git clone git@github.com:antonbc/cs180-project.git
 ```
-2. 
+2. Change Directory to Project Directory
+
+```
+cd cs180-project
+```
+
+3. Install Required Requirements
+```
+pip install numpy matplotlib torch torchvision tensorboard
+```
