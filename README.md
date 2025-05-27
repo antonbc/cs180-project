@@ -20,7 +20,7 @@ Download the required pre-trained models from this [Google Drive Link of Pre-Tra
 
 ### Step 4: Install Required Dependencies for the Model
 ```
-pip install numpy matplotlib torch torchvision tensorboard
+pip install numpy matplotlib torch torchvision tensorboard timm pandas openpyxl
 ```
 
 ### Step 5: Run the Demo Notebook
