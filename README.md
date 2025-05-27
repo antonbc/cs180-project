@@ -35,4 +35,5 @@ jupyter notebook Demo+predictions.ipynb
 - **`training_results/`**: Contains the accuracy graphs of each model used.
 - **`VIT_train.ipynb`**: Contains the solution for deep learning-based approaches that do not employ transformer architectures.
 - **`CNN_train.ipynb`**: Contains the solution for deep learning-based approaches underpinned by transformer architectures.
+- **`Demo+predictions.ipynb`**: Contains our Demo Model which contains both the VIT model and CNN model.
 
