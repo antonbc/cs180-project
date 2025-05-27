@@ -1,19 +1,38 @@
 # CS180 Computer Vision Project
 
-This is a course requirement for CS 180 (Artificial Intelligence) Course of the Department of Computer Science, College of Engineering, University of the Philippines, Diliman under the guidance of Carlo Raquel for A.Y. 2024-2025.
+This repository contains the implementation of our Computer Vision project for **CS 180: Artificial Intelligence**, a course under the Department of Computer Science, College of Engineering, University of the Philippines, Diliman. Developed under the guidance of **Associate Professor Carlo Raquel**, this project was completed during the academic year **2024-2025**.
 
-## How to run project
-1. Clone the repository.
-```
+## How to Run the Project
+
+### Step 1: Clone the Repository
+```zsh
 git clone git@github.com:antonbc/cs180-project.git
 ```
-2. Change Directory to Project Directory
 
-```
+### Step 2: Navigate to the Project Directory
+```zsh
 cd cs180-project
 ```
 
-3. Install Required Requirements
+### Step 3: Download Pre-Trained Models
+Download the required pre-trained models from this [Google Drive Link of Pre-Trained Models](https://drive.google.com/drive/folders/1vO8MprVQdztSgorqvVyTRAQZL_XACgEh?usp=sharing)
+
+
+### Step 4: Install Required Dependencies for the Model
 ```
 pip install numpy matplotlib torch torchvision tensorboard
 ```
+
+### Step 5: Run the Demo Notebook
+```
+jupyter notebook Demo+predictions.ipynb
+```
+
+## Code Structure
+- **`outputs/`**: Contains the outputs of each model.
+- **`train/`**: Contains the training set for both models.
+- **`test/`**: Contains the test set for both models.
+- **`training_results/`**: Contains the accuracy graphs of each model used.
+- **`VIT_train.ipynb`**: Contains the solution for deep learning-based approaches that do not employ transformer architectures.
+- **`CNN_train.ipynb`**: Contains the solution for deep learning-based approaches underpinned by transformer architectures.
+
