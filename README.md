@@ -18,7 +18,7 @@ cd cs180-project
 Download the required pre-trained models from this [Google Drive Link of Pre-Trained Models](https://drive.google.com/drive/folders/1vO8MprVQdztSgorqvVyTRAQZL_XACgEh?usp=sharing)
 
 ### Step 4: Place Downloaded Pre-Trained Models in Project Directory
-After Downloading **`CNN_transfer_learning/`** and **``VIT_transfer_learning/`** add them to the project directory.
+After Downloading **`CNN_transfer_learning/`** and **`VIT_transfer_learning/`** add them to the project directory.
 
 
 ### Step 5: Install Required Dependencies for the Model
