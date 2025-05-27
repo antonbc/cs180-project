@@ -15,5 +15,5 @@ cd cs180-project
 
 3. Install Required Requirements
 ```
-pip install numpy matplotlib torch torchvision tensorboard
+pip install numpy matplotlib torch torchvision tensorboard timm pandas openpyxl
 ```
