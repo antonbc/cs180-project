@@ -17,13 +17,16 @@ cd cs180-project
 ### Step 3: Download Pre-Trained Models
 Download the required pre-trained models from this [Google Drive Link of Pre-Trained Models](https://drive.google.com/drive/folders/1vO8MprVQdztSgorqvVyTRAQZL_XACgEh?usp=sharing)
 
+### Step 4: Place Downloaded Pre-Trained Models in Project Directory
+After Downloading **`CNN_transfer_learning/`** and **``VIT_transfer_learning/`** add them to the project directory.
 
-### Step 4: Install Required Dependencies for the Model
+
+### Step 5: Install Required Dependencies for the Model
 ```
 pip install numpy matplotlib torch torchvision tensorboard timm pandas openpyxl
 ```
 
-### Step 5: Run the Demo Notebook
+### Step 6: Open Jupyter Notebook and Run the Demo Notebook
 ```
 jupyter notebook Demo+predictions.ipynb
 ```
