@@ -2,6 +2,11 @@
 
 This repository contains the implementation of our Computer Vision project for **CS 180: Artificial Intelligence**, a course under the Department of Computer Science, College of Engineering, University of the Philippines, Diliman. Developed under the guidance of **Associate Professor Carlo Raquel**, this project was completed during the academic year **2024-2025**.
 
+## Team Members
+- Andres, Lance Leo
+- Chio, Mikhail Anton B.
+- Tuan, Hamdi
+  
 ## How to Run the Project
 
 ### Step 1: Clone the Repository
